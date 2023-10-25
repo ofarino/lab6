@@ -19,7 +19,7 @@ while True: # Kristian LaPlante Main
 		encode_password()
 	elif option == "2":
 		#decode_password()
-		break
+		break # Remove break once decode_password() is added
 	elif option == "3":
 		break
 	else:
